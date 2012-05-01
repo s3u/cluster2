@@ -12,12 +12,11 @@
     "main": "lib/index.js",
     "dependencies": {
         "underscore": "",
-        "express": "2.5.9",
+        "express": "https://nodeload.github.com/s3u/express/tarball/master",
         "ejs": "",
         "npm": ""
     },
     "devDependencies": {
-        "express": "2.5.9",
         "nodeunit": "",
         "request": ""
     },
